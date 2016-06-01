@@ -1,0 +1,311 @@
+Words before depression:
+actually        1               
+already         1               
+always          1               
+am              1               
+around          1               
+bad             1               
+beyond          1               
+bieberuddudeduddudeduddudedreally 1               
+bit             1               
+day             1               
+depressedim     1               
+depressedstill  1               
+depressedstressed 1               
+depresseduddudeduddudepretty 1               
+depressionnajwazra 1               
+feelin          1               
+fuckin          1               
+fully           1               
+get             1               
+gets            1               
+got             1               
+honestly        1               
+jus             1               
+just            1               
+less            1               
+lifeso          1               
+lowkey          1               
+messstressed    1               
+my              1               
+nonstopfrale    1               
+or              1               
+serioussigned   1               
+still           1               
+super           1               
+the             1               
+thisuddudeuddudeso 1               
+too             1               
+tweeting        1               
+unfortunatelystressed 1               
+up              1               
+weekconstantly  1               
+yalllowkey      1               
+                2               
+are             2               
+most            2               
+not             2               
+stressed        2               
+youre           2               
+feel            3               
+feeling         3               
+fucking         3               
+getting         3               
+very            3               
+be              4               
+being           4               
+really          5               
+a               6               
+im              6               
+me              6               
+more            6               
+and             9               
+so              19              
+
+Words following depression:
+                1               
+after           1               
+again           1               
+all             1               
+am              1               
+any             1               
+back            1               
+bc              1               
+before          1               
+bruh            1               
+bruhrt          1               
+bruins          1               
+by              1               
+cuz             1               
+every           1               
+frfrim          1               
+fuck            1               
+girl            1               
+good            1               
+have            1               
+if              1               
+im              1               
+is              1               
+isnt            1               
+ke              1               
+kinda           1               
+lately          1               
+latley          1               
+lifes           1               
+lmaoim          1               
+lmaoort         1               
+lol             1               
+looking         1               
+lost            1               
+maybe           1               
+me              1               
+mom             1               
+mood            1               
+nme             1               
+not             1               
+now             1               
+on              1               
+once            1               
+point           1               
+positiondefashah 1               
+posting         1               
+quick           1               
+right           1               
+rn              1               
+rnif            1               
+rudi            1               
+seeing          1               
+spiritually     1               
+stamkos         1               
+than            1               
+the             1               
+todayfuck       1               
+todayim         1               
+tomorrow        1               
+uddude          1               
+uddudea         1               
+uddudeaoh       1               
+uddudebec       1               
+uddudecim       1               
+uddudedi        1               
+uddudeduddudeduddudeduddudeduddudeduddudedwhy 1               
+uddudeuddudenidoingit 1               
+uddudeudduderedstateblonde 1               
+walking         1               
+watching        1               
+weve            1               
+writing         1               
+yesexactlyhhahahaa 1               
+af              2               
+but             2               
+cause           2               
+no              2               
+or              2               
+person          2               
+to              2               
+ugly            2               
+when            2               
+with            2               
+because         3               
+its             3               
+as              5               
+i               5               
+that            5               
+about           9               
+and             10              
+
+Preceeding word counts/ total deppressed counts: 
+actually        0.6896551724137931 percent 
+already         0.6896551724137931 percent 
+always          0.6896551724137931 percent 
+am              0.6896551724137931 percent 
+around          0.6896551724137931 percent 
+bad             0.6896551724137931 percent 
+beyond          0.6896551724137931 percent 
+bieberuddudeduddudeduddudedreally 0.6896551724137931 percent 
+bit             0.6896551724137931 percent 
+day             0.6896551724137931 percent 
+depressedim     0.6896551724137931 percent 
+depressedstill  0.6896551724137931 percent 
+depressedstressed 0.6896551724137931 percent 
+depresseduddudeduddudepretty 0.6896551724137931 percent 
+depressionnajwazra 0.6896551724137931 percent 
+feelin          0.6896551724137931 percent 
+fuckin          0.6896551724137931 percent 
+fully           0.6896551724137931 percent 
+get             0.6896551724137931 percent 
+gets            0.6896551724137931 percent 
+got             0.6896551724137931 percent 
+honestly        0.6896551724137931 percent 
+jus             0.6896551724137931 percent 
+just            0.6896551724137931 percent 
+less            0.6896551724137931 percent 
+lifeso          0.6896551724137931 percent 
+lowkey          0.6896551724137931 percent 
+messstressed    0.6896551724137931 percent 
+my              0.6896551724137931 percent 
+nonstopfrale    0.6896551724137931 percent 
+or              0.6896551724137931 percent 
+serioussigned   0.6896551724137931 percent 
+still           0.6896551724137931 percent 
+super           0.6896551724137931 percent 
+the             0.6896551724137931 percent 
+thisuddudeuddudeso 0.6896551724137931 percent 
+too             0.6896551724137931 percent 
+tweeting        0.6896551724137931 percent 
+unfortunatelystressed 0.6896551724137931 percent 
+up              0.6896551724137931 percent 
+weekconstantly  0.6896551724137931 percent 
+yalllowkey      0.6896551724137931 percent 
+                1.3793103448275863 percent 
+are             1.3793103448275863 percent 
+most            1.3793103448275863 percent 
+not             1.3793103448275863 percent 
+stressed        1.3793103448275863 percent 
+youre           1.3793103448275863 percent 
+feel            2.0689655172413794 percent 
+feeling         2.0689655172413794 percent 
+fucking         2.0689655172413794 percent 
+getting         2.0689655172413794 percent 
+very            2.0689655172413794 percent 
+be              2.7586206896551726 percent 
+being           2.7586206896551726 percent 
+really          3.4482758620689653 percent 
+a               4.137931034482759 percent 
+im              4.137931034482759 percent 
+me              4.137931034482759 percent 
+more            4.137931034482759 percent 
+and             6.206896551724138 percent 
+so              13.10344827586207 percent 
+
+Following word counts/ total deppressed counts: 
+                0.6896551724137931 percent 
+after           0.6896551724137931 percent 
+again           0.6896551724137931 percent 
+all             0.6896551724137931 percent 
+am              0.6896551724137931 percent 
+any             0.6896551724137931 percent 
+back            0.6896551724137931 percent 
+bc              0.6896551724137931 percent 
+before          0.6896551724137931 percent 
+bruh            0.6896551724137931 percent 
+bruhrt          0.6896551724137931 percent 
+bruins          0.6896551724137931 percent 
+by              0.6896551724137931 percent 
+cuz             0.6896551724137931 percent 
+every           0.6896551724137931 percent 
+frfrim          0.6896551724137931 percent 
+fuck            0.6896551724137931 percent 
+girl            0.6896551724137931 percent 
+good            0.6896551724137931 percent 
+have            0.6896551724137931 percent 
+if              0.6896551724137931 percent 
+im              0.6896551724137931 percent 
+is              0.6896551724137931 percent 
+isnt            0.6896551724137931 percent 
+ke              0.6896551724137931 percent 
+kinda           0.6896551724137931 percent 
+lately          0.6896551724137931 percent 
+latley          0.6896551724137931 percent 
+lifes           0.6896551724137931 percent 
+lmaoim          0.6896551724137931 percent 
+lmaoort         0.6896551724137931 percent 
+lol             0.6896551724137931 percent 
+looking         0.6896551724137931 percent 
+lost            0.6896551724137931 percent 
+maybe           0.6896551724137931 percent 
+me              0.6896551724137931 percent 
+mom             0.6896551724137931 percent 
+mood            0.6896551724137931 percent 
+nme             0.6896551724137931 percent 
+not             0.6896551724137931 percent 
+now             0.6896551724137931 percent 
+on              0.6896551724137931 percent 
+once            0.6896551724137931 percent 
+point           0.6896551724137931 percent 
+positiondefashah 0.6896551724137931 percent 
+posting         0.6896551724137931 percent 
+quick           0.6896551724137931 percent 
+right           0.6896551724137931 percent 
+rn              0.6896551724137931 percent 
+rnif            0.6896551724137931 percent 
+rudi            0.6896551724137931 percent 
+seeing          0.6896551724137931 percent 
+spiritually     0.6896551724137931 percent 
+stamkos         0.6896551724137931 percent 
+than            0.6896551724137931 percent 
+the             0.6896551724137931 percent 
+todayfuck       0.6896551724137931 percent 
+todayim         0.6896551724137931 percent 
+tomorrow        0.6896551724137931 percent 
+uddude          0.6896551724137931 percent 
+uddudea         0.6896551724137931 percent 
+uddudeaoh       0.6896551724137931 percent 
+uddudebec       0.6896551724137931 percent 
+uddudecim       0.6896551724137931 percent 
+uddudedi        0.6896551724137931 percent 
+uddudeduddudeduddudeduddudeduddudeduddudedwhy 0.6896551724137931 percent 
+uddudeuddudenidoingit 0.6896551724137931 percent 
+uddudeudduderedstateblonde 0.6896551724137931 percent 
+walking         0.6896551724137931 percent 
+watching        0.6896551724137931 percent 
+weve            0.6896551724137931 percent 
+writing         0.6896551724137931 percent 
+yesexactlyhhahahaa 0.6896551724137931 percent 
+af              1.3793103448275863 percent 
+but             1.3793103448275863 percent 
+cause           1.3793103448275863 percent 
+no              1.3793103448275863 percent 
+or              1.3793103448275863 percent 
+person          1.3793103448275863 percent 
+to              1.3793103448275863 percent 
+ugly            1.3793103448275863 percent 
+when            1.3793103448275863 percent 
+with            1.3793103448275863 percent 
+because         2.0689655172413794 percent 
+its             2.0689655172413794 percent 
+as              3.4482758620689653 percent 
+i               3.4482758620689653 percent 
+that            3.4482758620689653 percent 
+about           6.206896551724138 percent 
+and             6.896551724137931 percent  

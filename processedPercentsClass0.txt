@@ -1,0 +1,454 @@
+
+Words before depression:
+actuallyim      1               
+already         1               
+amp             1               
+as              1               
+audience        1               
+b               1               
+because         1               
+bitch           1               
+broken          1               
+but             1               
+chronically     1               
+depressedbeing  1               
+depressedfake   1               
+encouraging     1               
+exhausted       1               
+fat             1               
+for             1               
+fucking         1               
+gets            1               
+getting         1               
+googlefacts     1               
+have            1               
+here            1               
+home            1               
+ian             1               
+itzwikipedia    1               
+ium             1               
+key             1               
+less            1               
+lives           1               
+looking         1               
+lowkey          1               
+make            1               
+many            1               
+muslims         1               
+myself          1               
+natashaivanovic 1               
+of              1               
+one             1               
+postscreening   1               
+pray            1               
+prices          1               
+sad             1               
+still           1               
+stressed        1               
+stubborn        1               
+super           1               
+then            1               
+theyre          1               
+think           1               
+todaystudy      1               
+too             1               
+totally         1               
+uddudcuso       1               
+ur              1               
+ustudy          1               
+wannabe         1               
+were            1               
+when            1               
+whose           1               
+yall            1               
+yesterday       1               
+yostudy         1               
+your            1               
+always          2               
+are             2               
+clinically      2               
+feeling         2               
+how             2               
+just            2               
+look            2               
+looks           2               
+more            2               
+people          2               
+really          2               
+severely        2               
+that            2               
+very            2               
+become          3               
+get             3               
+the             3               
+youre           3               
+being           4               
+im              4               
+me              4               
+not             4               
+up              4               
+us              4               
+a               5               
+feel            5               
+is              5               
+was             5               
+and             6               
+you             7               
+or              9               
+so              10              
+be              11              
+
+Words following depression:
+af              1               
+againdepressed  1               
+againhow        1               
+alone           1               
+amp             1               
+andor           1               
+andurt          1               
+area            1               
+asf             1               
+ass             1               
+back            1               
+bc              1               
+bean            1               
+before          1               
+bender          1               
+botyouure       1               
+by              1               
+can             1               
+change          1               
+chickennnemoji  1               
+chinese         1               
+cocotteashleyyyshannon 1               
+cuz             1               
+dark            1               
+distressedwildygritte 1               
+do              1               
+due             1               
+eat             1               
+emoa            1               
+explore         1               
+fake            1               
+friend          1               
+go              1               
+hahahatandonraveena 1               
+hat             1               
+hibs            1               
+idk             1               
+ill             1               
+in              1               
+instead         1               
+is              1               
+itll            1               
+kidsgalaga      1               
+lets            1               
+level           1               
+lifeless        1               
+little          1               
+lmao            1               
+lmaoo           1               
+lmaoort         1               
+lmaoranjnajanagal 1               
+lookin          1               
+man             1               
+maryam          1               
+mfsi            1               
+middle          1               
+millennialsif   1               
+miurt           1               
+mood            1               
+murasaki        1               
+nobody          1               
+not             1               
+now             1               
+nowuddudei      1               
+of              1               
+on              1               
+out             1               
+person          1               
+ppl             1               
+rash            1               
+remember        1               
+right           1               
+something       1               
+sometimes       1               
+survey          1               
+surveysocial    1               
+surveystressed  1               
+teenxitlalaguilar 1               
+than            1               
+that            1               
+then            1               
+thinking        1               
+this            1               
+uddudee         1               
+uddudert        1               
+uddudethe       1               
+uddudeuddude    1               
+uddudeuddudefbe 1               
+uddudeuddudeuddudeif 1               
+until           1               
+were            1               
+what            1               
+whenever        1               
+who             1               
+why             1               
+women           1               
+writing         1               
+yeahuddudejustshowerthoughts 1               
+yes             1               
+young           1               
+your            1               
+youre           1               
+all             2               
+for             2               
+if              2               
+im              2               
+its             2               
+look            2               
+no              2               
+pray            2               
+so              2               
+to              2               
+u               2               
+you             2               
+as              3               
+because         3               
+but             3               
+dont            3               
+when            3               
+i               4               
+like            4               
+or              4               
+                7               
+about           8               
+people          8               
+and             15              
+
+Preceeding word counts/ total deppressed counts: 
+actuallyim      0.4629629629629629 percent 
+already         0.4629629629629629 percent 
+amp             0.4629629629629629 percent 
+as              0.4629629629629629 percent 
+audience        0.4629629629629629 percent 
+b               0.4629629629629629 percent 
+because         0.4629629629629629 percent 
+bitch           0.4629629629629629 percent 
+broken          0.4629629629629629 percent 
+but             0.4629629629629629 percent 
+chronically     0.4629629629629629 percent 
+depressedbeing  0.4629629629629629 percent 
+depressedfake   0.4629629629629629 percent 
+encouraging     0.4629629629629629 percent 
+exhausted       0.4629629629629629 percent 
+fat             0.4629629629629629 percent 
+for             0.4629629629629629 percent 
+fucking         0.4629629629629629 percent 
+gets            0.4629629629629629 percent 
+getting         0.4629629629629629 percent 
+googlefacts     0.4629629629629629 percent 
+have            0.4629629629629629 percent 
+here            0.4629629629629629 percent 
+home            0.4629629629629629 percent 
+ian             0.4629629629629629 percent 
+itzwikipedia    0.4629629629629629 percent 
+ium             0.4629629629629629 percent 
+key             0.4629629629629629 percent 
+less            0.4629629629629629 percent 
+lives           0.4629629629629629 percent 
+looking         0.4629629629629629 percent 
+lowkey          0.4629629629629629 percent 
+make            0.4629629629629629 percent 
+many            0.4629629629629629 percent 
+muslims         0.4629629629629629 percent 
+myself          0.4629629629629629 percent 
+natashaivanovic 0.4629629629629629 percent 
+of              0.4629629629629629 percent 
+one             0.4629629629629629 percent 
+postscreening   0.4629629629629629 percent 
+pray            0.4629629629629629 percent 
+prices          0.4629629629629629 percent 
+sad             0.4629629629629629 percent 
+still           0.4629629629629629 percent 
+stressed        0.4629629629629629 percent 
+stubborn        0.4629629629629629 percent 
+super           0.4629629629629629 percent 
+then            0.4629629629629629 percent 
+theyre          0.4629629629629629 percent 
+think           0.4629629629629629 percent 
+todaystudy      0.4629629629629629 percent 
+too             0.4629629629629629 percent 
+totally         0.4629629629629629 percent 
+uddudcuso       0.4629629629629629 percent 
+ur              0.4629629629629629 percent 
+ustudy          0.4629629629629629 percent 
+wannabe         0.4629629629629629 percent 
+were            0.4629629629629629 percent 
+when            0.4629629629629629 percent 
+whose           0.4629629629629629 percent 
+yall            0.4629629629629629 percent 
+yesterday       0.4629629629629629 percent 
+yostudy         0.4629629629629629 percent 
+your            0.4629629629629629 percent 
+always          0.9259259259259258 percent 
+are             0.9259259259259258 percent 
+clinically      0.9259259259259258 percent 
+feeling         0.9259259259259258 percent 
+how             0.9259259259259258 percent 
+just            0.9259259259259258 percent 
+look            0.9259259259259258 percent 
+looks           0.9259259259259258 percent 
+more            0.9259259259259258 percent 
+people          0.9259259259259258 percent 
+really          0.9259259259259258 percent 
+severely        0.9259259259259258 percent 
+that            0.9259259259259258 percent 
+very            0.9259259259259258 percent 
+become          1.3888888888888888 percent 
+get             1.3888888888888888 percent 
+the             1.3888888888888888 percent 
+youre           1.3888888888888888 percent 
+being           1.8518518518518516 percent 
+im              1.8518518518518516 percent 
+me              1.8518518518518516 percent 
+not             1.8518518518518516 percent 
+up              1.8518518518518516 percent 
+us              1.8518518518518516 percent 
+a               2.314814814814815 percent 
+feel            2.314814814814815 percent 
+is              2.314814814814815 percent 
+was             2.314814814814815 percent 
+and             2.7777777777777777 percent 
+you             3.2407407407407405 percent 
+or              4.166666666666666 percent 
+so              4.62962962962963 percent 
+be              5.092592592592593 percent 
+
+Following word counts/ total deppressed counts: 
+af              0.4629629629629629 percent 
+againdepressed  0.4629629629629629 percent 
+againhow        0.4629629629629629 percent 
+alone           0.4629629629629629 percent 
+amp             0.4629629629629629 percent 
+andor           0.4629629629629629 percent 
+andurt          0.4629629629629629 percent 
+area            0.4629629629629629 percent 
+asf             0.4629629629629629 percent 
+ass             0.4629629629629629 percent 
+back            0.4629629629629629 percent 
+bc              0.4629629629629629 percent 
+bean            0.4629629629629629 percent 
+before          0.4629629629629629 percent 
+bender          0.4629629629629629 percent 
+botyouure       0.4629629629629629 percent 
+by              0.4629629629629629 percent 
+can             0.4629629629629629 percent 
+change          0.4629629629629629 percent 
+chickennnemoji  0.4629629629629629 percent 
+chinese         0.4629629629629629 percent 
+cocotteashleyyyshannon 0.4629629629629629 percent 
+cuz             0.4629629629629629 percent 
+dark            0.4629629629629629 percent 
+distressedwildygritte 0.4629629629629629 percent 
+do              0.4629629629629629 percent 
+due             0.4629629629629629 percent 
+eat             0.4629629629629629 percent 
+emoa            0.4629629629629629 percent 
+explore         0.4629629629629629 percent 
+fake            0.4629629629629629 percent 
+friend          0.4629629629629629 percent 
+go              0.4629629629629629 percent 
+hahahatandonraveena 0.4629629629629629 percent 
+hat             0.4629629629629629 percent 
+hibs            0.4629629629629629 percent 
+idk             0.4629629629629629 percent 
+ill             0.4629629629629629 percent 
+in              0.4629629629629629 percent 
+instead         0.4629629629629629 percent 
+is              0.4629629629629629 percent 
+itll            0.4629629629629629 percent 
+kidsgalaga      0.4629629629629629 percent 
+lets            0.4629629629629629 percent 
+level           0.4629629629629629 percent 
+lifeless        0.4629629629629629 percent 
+little          0.4629629629629629 percent 
+lmao            0.4629629629629629 percent 
+lmaoo           0.4629629629629629 percent 
+lmaoort         0.4629629629629629 percent 
+lmaoranjnajanagal 0.4629629629629629 percent 
+lookin          0.4629629629629629 percent 
+man             0.4629629629629629 percent 
+maryam          0.4629629629629629 percent 
+mfsi            0.4629629629629629 percent 
+middle          0.4629629629629629 percent 
+millennialsif   0.4629629629629629 percent 
+miurt           0.4629629629629629 percent 
+mood            0.4629629629629629 percent 
+murasaki        0.4629629629629629 percent 
+nobody          0.4629629629629629 percent 
+not             0.4629629629629629 percent 
+now             0.4629629629629629 percent 
+nowuddudei      0.4629629629629629 percent 
+of              0.4629629629629629 percent 
+on              0.4629629629629629 percent 
+out             0.4629629629629629 percent 
+person          0.4629629629629629 percent 
+ppl             0.4629629629629629 percent 
+rash            0.4629629629629629 percent 
+remember        0.4629629629629629 percent 
+right           0.4629629629629629 percent 
+something       0.4629629629629629 percent 
+sometimes       0.4629629629629629 percent 
+survey          0.4629629629629629 percent 
+surveysocial    0.4629629629629629 percent 
+surveystressed  0.4629629629629629 percent 
+teenxitlalaguilar 0.4629629629629629 percent 
+than            0.4629629629629629 percent 
+that            0.4629629629629629 percent 
+then            0.4629629629629629 percent 
+thinking        0.4629629629629629 percent 
+this            0.4629629629629629 percent 
+uddudee         0.4629629629629629 percent 
+uddudert        0.4629629629629629 percent 
+uddudethe       0.4629629629629629 percent 
+uddudeuddude    0.4629629629629629 percent 
+uddudeuddudefbe 0.4629629629629629 percent 
+uddudeuddudeuddudeif 0.4629629629629629 percent 
+until           0.4629629629629629 percent 
+were            0.4629629629629629 percent 
+what            0.4629629629629629 percent 
+whenever        0.4629629629629629 percent 
+who             0.4629629629629629 percent 
+why             0.4629629629629629 percent 
+women           0.4629629629629629 percent 
+writing         0.4629629629629629 percent 
+yeahuddudejustshowerthoughts 0.4629629629629629 percent 
+yes             0.4629629629629629 percent 
+young           0.4629629629629629 percent 
+your            0.4629629629629629 percent 
+youre           0.4629629629629629 percent 
+all             0.9259259259259258 percent 
+for             0.9259259259259258 percent 
+if              0.9259259259259258 percent 
+im              0.9259259259259258 percent 
+its             0.9259259259259258 percent 
+look            0.9259259259259258 percent 
+no              0.9259259259259258 percent 
+pray            0.9259259259259258 percent 
+so              0.9259259259259258 percent 
+to              0.9259259259259258 percent 
+u               0.9259259259259258 percent 
+you             0.9259259259259258 percent 
+as              1.3888888888888888 percent 
+because         1.3888888888888888 percent 
+but             1.3888888888888888 percent 
+dont            1.3888888888888888 percent 
+when            1.3888888888888888 percent 
+i               1.8518518518518516 percent 
+like            1.8518518518518516 percent 
+or              1.8518518518518516 percent 
+                3.2407407407407405 percent 
+about           3.7037037037037033 percent 
+people          3.7037037037037033 percent 
+and             6.944444444444445 percent 

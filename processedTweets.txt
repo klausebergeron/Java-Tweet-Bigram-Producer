@@ -1,0 +1,632 @@
+
+Words before depression:
+actually        1               
+actuallyim      1               
+already         1               
+am              1               
+amp             1               
+around          1               
+as              1               
+audience        1               
+b               1               
+bad             1               
+because         1               
+beyond          1               
+bieberuddudeduddudeduddudedreally 1               
+bit             1               
+bitch           1               
+broken          1               
+but             1               
+chronically     1               
+day             1               
+depressedbeing  1               
+depressedfake   1               
+depressedim     1               
+depressedstill  1               
+depressedstressed 1               
+depresseduddudeduddudepretty 1               
+depressionnajwazra 1               
+encouraging     1               
+exhausted       1               
+fat             1               
+feelin          1               
+for             1               
+fuckin          1               
+fully           1               
+gets            1               
+googlefacts     1               
+got             1               
+have            1               
+here            1               
+home            1               
+honestly        1               
+ian             1               
+itzwikipedia    1               
+ium             1               
+jus             1               
+key             1               
+lifeso          1               
+lives           1               
+looking         1               
+make            1               
+many            1               
+messstressed    1               
+muslims         1               
+my              1               
+myself          1               
+natashaivanovic 1               
+nonstopfrale    1               
+of              1               
+one             1               
+postscreening   1               
+pray            1               
+prices          1               
+sad             1               
+serioussigned   1               
+stubborn        1               
+then            1               
+theyre          1               
+think           1               
+thisuddudeuddudeso 1               
+todaystudy      1               
+totally         1               
+tweeting        1               
+uddudcuso       1               
+unfortunatelystressed 1               
+ur              1               
+ustudy          1               
+wannabe         1               
+weekconstantly  1               
+were            1               
+when            1               
+whose           1               
+yall            1               
+yalllowkey      1               
+yesterday       1               
+yostudy         1               
+your            1               
+                2               
+clinically      2               
+how             2               
+less            2               
+look            2               
+looks           2               
+lowkey          2               
+most            2               
+people          2               
+severely        2               
+still           2               
+super           2               
+that            2               
+too             2               
+always          3               
+become          3               
+get             3               
+just            3               
+stressed        3               
+are             4               
+fucking         4               
+getting         4               
+the             4               
+us              4               
+very            4               
+feeling         5               
+is              5               
+up              5               
+was             5               
+youre           5               
+not             6               
+more            7               
+really          7               
+you             7               
+being           8               
+feel            8               
+me              9               
+or              9               
+a               10              
+im              10              
+and             15              
+be              15              
+so              27              
+
+Words following depression:
+after           1               
+again           1               
+againdepressed  1               
+againhow        1               
+alone           1               
+am              1               
+amp             1               
+andor           1               
+andurt          1               
+any             1               
+area            1               
+asf             1               
+ass             1               
+back            1               
+bean            1               
+bender          1               
+botyouure       1               
+bruh            1               
+bruhrt          1               
+bruins          1               
+can             1               
+change          1               
+chickennnemoji  1               
+chinese         1               
+cocotteashleyyyshannon 1               
+dark            1               
+distressedwildygritte 1               
+do              1               
+due             1               
+eat             1               
+emoa            1               
+every           1               
+explore         1               
+fake            1               
+frfrim          1               
+friend          1               
+fuck            1               
+girl            1               
+go              1               
+good            1               
+hahahatandonraveena 1               
+hat             1               
+have            1               
+hibs            1               
+idk             1               
+ill             1               
+in              1               
+instead         1               
+isnt            1               
+itll            1               
+ke              1               
+kidsgalaga      1               
+kinda           1               
+lately          1               
+latley          1               
+lets            1               
+level           1               
+lifeless        1               
+lifes           1               
+little          1               
+lmao            1               
+lmaoim          1               
+lmaoo           1               
+lmaoort         1               
+lmaoranjnajanagal 1               
+lol             1               
+lookin          1               
+looking         1               
+lost            1               
+man             1               
+maryam          1               
+maybe           1               
+me              1               
+mfsi            1               
+middle          1               
+millennialsif   1               
+miurt           1               
+mom             1               
+murasaki        1               
+nme             1               
+nobody          1               
+nowuddudei      1               
+of              1               
+once            1               
+out             1               
+point           1               
+positiondefashah 1               
+posting         1               
+ppl             1               
+quick           1               
+rash            1               
+remember        1               
+rn              1               
+rnif            1               
+rudi            1               
+seeing          1               
+something       1               
+sometimes       1               
+spiritually     1               
+stamkos         1               
+survey          1               
+surveysocial    1               
+surveystressed  1               
+teenxitlalaguilar 1               
+than            1               
+the             1               
+then            1               
+thinking        1               
+this            1               
+todayfuck       1               
+todayim         1               
+tomorrow        1               
+uddude          1               
+uddudea         1               
+uddudeaoh       1               
+uddudebec       1               
+uddudecim       1               
+uddudedi        1               
+uddudeduddudeduddudeduddudeduddudeduddudedwhy 1               
+uddudee         1               
+uddudert        1               
+uddudethe       1               
+uddudeuddude    1               
+uddudeuddudefbe 1               
+uddudeuddudenidoingit 1               
+uddudeudduderedstateblonde 1               
+uddudeuddudeuddudeif 1               
+until           1               
+walking         1               
+watching        1               
+were            1               
+weve            1               
+what            1               
+whenever        1               
+who             1               
+why             1               
+women           1               
+writing         1               
+yeahuddudejustshowerthoughts 1               
+yes             1               
+yesexactlyhhahahaa 1               
+young           1               
+your            1               
+youre           1               
+bc              2               
+before          2               
+by              2               
+cause           2               
+cuz             2               
+for             2               
+is              2               
+look            2               
+mood            2               
+not             2               
+now             2               
+on              2               
+person          2               
+pray            2               
+right           2               
+so              2               
+u               2               
+ugly            2               
+with            2               
+you             2               
+af              3               
+all             3               
+dont            3               
+if              3               
+im              3               
+no              3               
+like            4               
+to              4               
+when            4               
+but             5               
+its             5               
+or              5               
+because         6               
+that            6               
+                8               
+as              8               
+people          8               
+i               9               
+about           15              
+and             25              
+
+Preceeding word counts/ total deppressed counts: 
+actually        0.2770083102493075 percent 
+actuallyim      0.2770083102493075 percent 
+already         0.2770083102493075 percent 
+am              0.2770083102493075 percent 
+amp             0.2770083102493075 percent 
+around          0.2770083102493075 percent 
+as              0.2770083102493075 percent 
+audience        0.2770083102493075 percent 
+b               0.2770083102493075 percent 
+bad             0.2770083102493075 percent 
+because         0.2770083102493075 percent 
+beyond          0.2770083102493075 percent 
+bieberuddudeduddudeduddudedreally 0.2770083102493075 percent 
+bit             0.2770083102493075 percent 
+bitch           0.2770083102493075 percent 
+broken          0.2770083102493075 percent 
+but             0.2770083102493075 percent 
+chronically     0.2770083102493075 percent 
+day             0.2770083102493075 percent 
+depressedbeing  0.2770083102493075 percent 
+depressedfake   0.2770083102493075 percent 
+depressedim     0.2770083102493075 percent 
+depressedstill  0.2770083102493075 percent 
+depressedstressed 0.2770083102493075 percent 
+depresseduddudeduddudepretty 0.2770083102493075 percent 
+depressionnajwazra 0.2770083102493075 percent 
+encouraging     0.2770083102493075 percent 
+exhausted       0.2770083102493075 percent 
+fat             0.2770083102493075 percent 
+feelin          0.2770083102493075 percent 
+for             0.2770083102493075 percent 
+fuckin          0.2770083102493075 percent 
+fully           0.2770083102493075 percent 
+gets            0.2770083102493075 percent 
+googlefacts     0.2770083102493075 percent 
+got             0.2770083102493075 percent 
+have            0.2770083102493075 percent 
+here            0.2770083102493075 percent 
+home            0.2770083102493075 percent 
+honestly        0.2770083102493075 percent 
+ian             0.2770083102493075 percent 
+itzwikipedia    0.2770083102493075 percent 
+ium             0.2770083102493075 percent 
+jus             0.2770083102493075 percent 
+key             0.2770083102493075 percent 
+lifeso          0.2770083102493075 percent 
+lives           0.2770083102493075 percent 
+looking         0.2770083102493075 percent 
+make            0.2770083102493075 percent 
+many            0.2770083102493075 percent 
+messstressed    0.2770083102493075 percent 
+muslims         0.2770083102493075 percent 
+my              0.2770083102493075 percent 
+myself          0.2770083102493075 percent 
+natashaivanovic 0.2770083102493075 percent 
+nonstopfrale    0.2770083102493075 percent 
+of              0.2770083102493075 percent 
+one             0.2770083102493075 percent 
+postscreening   0.2770083102493075 percent 
+pray            0.2770083102493075 percent 
+prices          0.2770083102493075 percent 
+sad             0.2770083102493075 percent 
+serioussigned   0.2770083102493075 percent 
+stubborn        0.2770083102493075 percent 
+then            0.2770083102493075 percent 
+theyre          0.2770083102493075 percent 
+think           0.2770083102493075 percent 
+thisuddudeuddudeso 0.2770083102493075 percent 
+todaystudy      0.2770083102493075 percent 
+totally         0.2770083102493075 percent 
+tweeting        0.2770083102493075 percent 
+uddudcuso       0.2770083102493075 percent 
+unfortunatelystressed 0.2770083102493075 percent 
+ur              0.2770083102493075 percent 
+ustudy          0.2770083102493075 percent 
+wannabe         0.2770083102493075 percent 
+weekconstantly  0.2770083102493075 percent 
+were            0.2770083102493075 percent 
+when            0.2770083102493075 percent 
+whose           0.2770083102493075 percent 
+yall            0.2770083102493075 percent 
+yalllowkey      0.2770083102493075 percent 
+yesterday       0.2770083102493075 percent 
+yostudy         0.2770083102493075 percent 
+your            0.2770083102493075 percent 
+                0.554016620498615 percent 
+clinically      0.554016620498615 percent 
+how             0.554016620498615 percent 
+less            0.554016620498615 percent 
+look            0.554016620498615 percent 
+looks           0.554016620498615 percent 
+lowkey          0.554016620498615 percent 
+most            0.554016620498615 percent 
+people          0.554016620498615 percent 
+severely        0.554016620498615 percent 
+still           0.554016620498615 percent 
+super           0.554016620498615 percent 
+that            0.554016620498615 percent 
+too             0.554016620498615 percent 
+always          0.8310249307479225 percent 
+become          0.8310249307479225 percent 
+get             0.8310249307479225 percent 
+just            0.8310249307479225 percent 
+stressed        0.8310249307479225 percent 
+are             1.10803324099723 percent 
+fucking         1.10803324099723 percent 
+getting         1.10803324099723 percent 
+the             1.10803324099723 percent 
+us              1.10803324099723 percent 
+very            1.10803324099723 percent 
+feeling         1.3850415512465373 percent 
+is              1.3850415512465373 percent 
+up              1.3850415512465373 percent 
+was             1.3850415512465373 percent 
+youre           1.3850415512465373 percent 
+not             1.662049861495845 percent 
+more            1.9390581717451523 percent 
+really          1.9390581717451523 percent 
+you             1.9390581717451523 percent 
+being           2.21606648199446 percent 
+feel            2.21606648199446 percent 
+me              2.4930747922437675 percent 
+or              2.4930747922437675 percent 
+a               2.7700831024930745 percent 
+im              2.7700831024930745 percent 
+and             4.1551246537396125 percent 
+be              4.1551246537396125 percent 
+so              7.479224376731302 percent 
+
+Following word counts/ total deppressed counts: 
+after           0.2770083102493075 percent 
+again           0.2770083102493075 percent 
+againdepressed  0.2770083102493075 percent 
+againhow        0.2770083102493075 percent 
+alone           0.2770083102493075 percent 
+am              0.2770083102493075 percent 
+amp             0.2770083102493075 percent 
+andor           0.2770083102493075 percent 
+andurt          0.2770083102493075 percent 
+any             0.2770083102493075 percent 
+area            0.2770083102493075 percent 
+asf             0.2770083102493075 percent 
+ass             0.2770083102493075 percent 
+back            0.2770083102493075 percent 
+bean            0.2770083102493075 percent 
+bender          0.2770083102493075 percent 
+botyouure       0.2770083102493075 percent 
+bruh            0.2770083102493075 percent 
+bruhrt          0.2770083102493075 percent 
+bruins          0.2770083102493075 percent 
+can             0.2770083102493075 percent 
+change          0.2770083102493075 percent 
+chickennnemoji  0.2770083102493075 percent 
+chinese         0.2770083102493075 percent 
+cocotteashleyyyshannon 0.2770083102493075 percent 
+dark            0.2770083102493075 percent 
+distressedwildygritte 0.2770083102493075 percent 
+do              0.2770083102493075 percent 
+due             0.2770083102493075 percent 
+eat             0.2770083102493075 percent 
+emoa            0.2770083102493075 percent 
+every           0.2770083102493075 percent 
+explore         0.2770083102493075 percent 
+fake            0.2770083102493075 percent 
+frfrim          0.2770083102493075 percent 
+friend          0.2770083102493075 percent 
+fuck            0.2770083102493075 percent 
+girl            0.2770083102493075 percent 
+go              0.2770083102493075 percent 
+good            0.2770083102493075 percent 
+hahahatandonraveena 0.2770083102493075 percent 
+hat             0.2770083102493075 percent 
+have            0.2770083102493075 percent 
+hibs            0.2770083102493075 percent 
+idk             0.2770083102493075 percent 
+ill             0.2770083102493075 percent 
+in              0.2770083102493075 percent 
+instead         0.2770083102493075 percent 
+isnt            0.2770083102493075 percent 
+itll            0.2770083102493075 percent 
+ke              0.2770083102493075 percent 
+kidsgalaga      0.2770083102493075 percent 
+kinda           0.2770083102493075 percent 
+lately          0.2770083102493075 percent 
+latley          0.2770083102493075 percent 
+lets            0.2770083102493075 percent 
+level           0.2770083102493075 percent 
+lifeless        0.2770083102493075 percent 
+lifes           0.2770083102493075 percent 
+little          0.2770083102493075 percent 
+lmao            0.2770083102493075 percent 
+lmaoim          0.2770083102493075 percent 
+lmaoo           0.2770083102493075 percent 
+lmaoort         0.2770083102493075 percent 
+lmaoranjnajanagal 0.2770083102493075 percent 
+lol             0.2770083102493075 percent 
+lookin          0.2770083102493075 percent 
+looking         0.2770083102493075 percent 
+lost            0.2770083102493075 percent 
+man             0.2770083102493075 percent 
+maryam          0.2770083102493075 percent 
+maybe           0.2770083102493075 percent 
+me              0.2770083102493075 percent 
+mfsi            0.2770083102493075 percent 
+middle          0.2770083102493075 percent 
+millennialsif   0.2770083102493075 percent 
+miurt           0.2770083102493075 percent 
+mom             0.2770083102493075 percent 
+murasaki        0.2770083102493075 percent 
+nme             0.2770083102493075 percent 
+nobody          0.2770083102493075 percent 
+nowuddudei      0.2770083102493075 percent 
+of              0.2770083102493075 percent 
+once            0.2770083102493075 percent 
+out             0.2770083102493075 percent 
+point           0.2770083102493075 percent 
+positiondefashah 0.2770083102493075 percent 
+posting         0.2770083102493075 percent 
+ppl             0.2770083102493075 percent 
+quick           0.2770083102493075 percent 
+rash            0.2770083102493075 percent 
+remember        0.2770083102493075 percent 
+rn              0.2770083102493075 percent 
+rnif            0.2770083102493075 percent 
+rudi            0.2770083102493075 percent 
+seeing          0.2770083102493075 percent 
+something       0.2770083102493075 percent 
+sometimes       0.2770083102493075 percent 
+spiritually     0.2770083102493075 percent 
+stamkos         0.2770083102493075 percent 
+survey          0.2770083102493075 percent 
+surveysocial    0.2770083102493075 percent 
+surveystressed  0.2770083102493075 percent 
+teenxitlalaguilar 0.2770083102493075 percent 
+than            0.2770083102493075 percent 
+the             0.2770083102493075 percent 
+then            0.2770083102493075 percent 
+thinking        0.2770083102493075 percent 
+this            0.2770083102493075 percent 
+todayfuck       0.2770083102493075 percent 
+todayim         0.2770083102493075 percent 
+tomorrow        0.2770083102493075 percent 
+uddude          0.2770083102493075 percent 
+uddudea         0.2770083102493075 percent 
+uddudeaoh       0.2770083102493075 percent 
+uddudebec       0.2770083102493075 percent 
+uddudecim       0.2770083102493075 percent 
+uddudedi        0.2770083102493075 percent 
+uddudeduddudeduddudeduddudeduddudeduddudedwhy 0.2770083102493075 percent 
+uddudee         0.2770083102493075 percent 
+uddudert        0.2770083102493075 percent 
+uddudethe       0.2770083102493075 percent 
+uddudeuddude    0.2770083102493075 percent 
+uddudeuddudefbe 0.2770083102493075 percent 
+uddudeuddudenidoingit 0.2770083102493075 percent 
+uddudeudduderedstateblonde 0.2770083102493075 percent 
+uddudeuddudeuddudeif 0.2770083102493075 percent 
+until           0.2770083102493075 percent 
+walking         0.2770083102493075 percent 
+watching        0.2770083102493075 percent 
+were            0.2770083102493075 percent 
+weve            0.2770083102493075 percent 
+what            0.2770083102493075 percent 
+whenever        0.2770083102493075 percent 
+who             0.2770083102493075 percent 
+why             0.2770083102493075 percent 
+women           0.2770083102493075 percent 
+writing         0.2770083102493075 percent 
+yeahuddudejustshowerthoughts 0.2770083102493075 percent 
+yes             0.2770083102493075 percent 
+yesexactlyhhahahaa 0.2770083102493075 percent 
+young           0.2770083102493075 percent 
+your            0.2770083102493075 percent 
+youre           0.2770083102493075 percent 
+bc              0.554016620498615 percent 
+before          0.554016620498615 percent 
+by              0.554016620498615 percent 
+cause           0.554016620498615 percent 
+cuz             0.554016620498615 percent 
+for             0.554016620498615 percent 
+is              0.554016620498615 percent 
+look            0.554016620498615 percent 
+mood            0.554016620498615 percent 
+not             0.554016620498615 percent 
+now             0.554016620498615 percent 
+on              0.554016620498615 percent 
+person          0.554016620498615 percent 
+pray            0.554016620498615 percent 
+right           0.554016620498615 percent 
+so              0.554016620498615 percent 
+u               0.554016620498615 percent 
+ugly            0.554016620498615 percent 
+with            0.554016620498615 percent 
+you             0.554016620498615 percent 
+af              0.8310249307479225 percent 
+all             0.8310249307479225 percent 
+dont            0.8310249307479225 percent 
+if              0.8310249307479225 percent 
+im              0.8310249307479225 percent 
+no              0.8310249307479225 percent 
+like            1.10803324099723 percent 
+to              1.10803324099723 percent 
+when            1.10803324099723 percent 
+but             1.3850415512465373 percent 
+its             1.3850415512465373 percent 
+or              1.3850415512465373 percent 
+because         1.662049861495845 percent 
+that            1.662049861495845 percent 
+                2.21606648199446 percent 
+as              2.21606648199446 percent 
+people          2.21606648199446 percent 
+i               2.4930747922437675 percent 
+about           4.1551246537396125 percent 
+and             6.9252077562326875 percent               
